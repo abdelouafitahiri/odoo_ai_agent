@@ -1,2 +1,2 @@
 # odoo_ai_agent
-QWISAI - AI Agent transforms Odoo ERP with AI-powered, multilingual (AR/EN/FR) conversational control. Get real-time updates, smart BI insights, secure operations, and intuitive data visualization — all with natural language interaction. Integrated with Odoo 17+ via FastAPI.
+QWISAI – Agent IA transforme Odoo ERP grâce à un contrôle conversationnel multilingue (AR/EN/FR) alimenté par l’IA. Obtenez des mises à jour en temps réel, des analyses BI intelligentes, des opérations sécurisées et une visualisation de données intuitive — le tout en langage naturel. Intégré à Odoo 17+ via FastAPI.
