@@ -78,7 +78,10 @@ python -m uvicorn app:app --host 0.0.0.0 --port 8000 --reload
 **The Magic Behind the Conversation:**
 
 ```mermaid
-User Input → AI Processing → Odoo Integration → Intelligent Response
+flowchart LR
+    A[User Input] --> B[AI Processing]
+    B --> C[Odoo Integration]
+    C --> D[Intelligent Response]
 ```
 
 QWISAI Agent seamlessly bridges human language with Odoo's technical complexity through:
