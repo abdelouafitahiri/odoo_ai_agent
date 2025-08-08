@@ -264,5 +264,3 @@ cp .env.example .env
 ```
 
 **Ready to revolutionize your ERP experience?**
-
----
